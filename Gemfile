@@ -41,6 +41,7 @@ gem 'jquery-rails'
 
 # To use debugger
 # gem 'debugger'
+gem 'coffee-script-source', '1.8.0'
 
 group :test do
 	gem 'capybara','1.1.2'
